@@ -1,0 +1,6 @@
+input, label,button{
+    display: block;
+    margin:10px 0;
+    padding:10px;
+    font-size:1.5rem;
+}
